@@ -1,0 +1,5 @@
+.about__columns {
+    padding: 33px 0 0 47px;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+}

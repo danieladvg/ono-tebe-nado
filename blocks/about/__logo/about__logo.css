@@ -1,0 +1,9 @@
+.about__logo {
+    background-color: #000;
+    border-radius: 100%;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

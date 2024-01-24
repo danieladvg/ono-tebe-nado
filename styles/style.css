@@ -28,6 +28,14 @@
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__text/card__text.css);
 
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__columns/about__columns.css);
+@import url(../blocks/about/__logo/about__logo.css);
+@import url(../blocks/about/__logo-image/about__logo-image.css);
+@import url(../blocks/about/__description/about__description.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__text/about__text.css);
+
 /* доп. стили секции cover */
 
 .aligned-text {
@@ -71,6 +79,7 @@
     background-color: rgba(0, 0, 0, .6);
     z-index: 2;
 }
+
 
 /* доп. стили для секции lots */
 
