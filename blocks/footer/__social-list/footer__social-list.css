@@ -1,0 +1,6 @@
+.footer__social-list {
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    gap: 48px;
+}

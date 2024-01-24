@@ -1,0 +1,5 @@
+.footer {
+    padding: 178px 50px 91px 50px;
+    display: grid;
+    grid-template-columns: 1fr 149px 1fr;
+}
