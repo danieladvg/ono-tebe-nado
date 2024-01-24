@@ -1,0 +1,8 @@
+.lots__look-more-link {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    text-underline-position: under;
+    margin: 30px 0 0 40px;
+    display: inline-block;
+}
