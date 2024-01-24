@@ -1,0 +1,19 @@
+.cover__title {
+    width: 1000px;
+    height: 355px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 100px;
+    font-weight: 700;
+    /* line-height: 100%; */
+    position: relative;
+    top: 165px;
+    right: 50px;
+    bottom: 237px;
+    left: 50px;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 5px;
+}
