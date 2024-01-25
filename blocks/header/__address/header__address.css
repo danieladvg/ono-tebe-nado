@@ -1,3 +1,4 @@
 .header__address {
-    padding: 0 0 0 186.5px;
+    display: flex;
+    justify-content: flex-end;
 }

@@ -3,7 +3,6 @@
 @import url(../blocks/header/__logo-image/header__logo-image.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__links-list/header__links-list.css);
-@import url(../blocks/header/__links-list-item/header__links-list-item.css);
 @import url(../blocks/header/__links-list-item/_no-bullit/header__links-list-item_no-bullit.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link/_active/header__link_active.css);
@@ -39,11 +38,9 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__menu-list/footer__menu-list.css);
-@import url(../blocks/footer/__menu-list-item/footer__menu-list-item.css);
 @import url(../blocks/footer/__menu-link/footer__menu-link.css);
 @import url(../blocks/footer/__menu-link/_active/footer__menu-link_active.css);
 @import url(../blocks/footer/__social-list/footer__social-list.css);
-@import url(../blocks/footer/__social-list-item/footer__social-list-item.css);
 @import url(../blocks/footer/__social-link/footer__social-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 

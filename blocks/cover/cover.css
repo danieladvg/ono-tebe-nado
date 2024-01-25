@@ -1,5 +1,8 @@
 .cover {
-    height: 757px;
+    padding: 165px 50px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 128px;
     position: relative;
     background-image: url(../../images/cover.jpg);
     background-position: center;
